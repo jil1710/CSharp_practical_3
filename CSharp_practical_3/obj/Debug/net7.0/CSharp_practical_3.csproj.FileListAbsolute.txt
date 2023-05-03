@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\bin\Debug\net7.0\CSharp_practical_3.exe
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\bin\Debug\net7.0\CSharp_practical_3.deps.json
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\bin\Debug\net7.0\CSharp_practical_3.runtimeconfig.json
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\bin\Debug\net7.0\CSharp_practical_3.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\bin\Debug\net7.0\CSharp_practical_3.pdb
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.AssemblyInfo.cs
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\refint\CSharp_practical_3.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.pdb
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\CSharp_practical_3.genruntimeconfig.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_3\obj\Debug\net7.0\ref\CSharp_practical_3.dll
