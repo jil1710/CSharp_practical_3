@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_practical_3", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_practical_Polymorphism", "CSharp_practical_Polymorphism\CSharp_practical_Polymorphism.csproj", "{D922D0F6-CEE5-47A8-8840-9CA667BFF40A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Abstraction_practical", "CSharp_Abstraction_practical\CSharp_Abstraction_practical.csproj", "{40350FCF-2591-4809-808E-C2A6B2EBB7D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D922D0F6-CEE5-47A8-8840-9CA667BFF40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D922D0F6-CEE5-47A8-8840-9CA667BFF40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D922D0F6-CEE5-47A8-8840-9CA667BFF40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40350FCF-2591-4809-808E-C2A6B2EBB7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40350FCF-2591-4809-808E-C2A6B2EBB7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40350FCF-2591-4809-808E-C2A6B2EBB7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40350FCF-2591-4809-808E-C2A6B2EBB7D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

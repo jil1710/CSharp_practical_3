@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\bin\Debug\net7.0\CSharp_Abstraction_practical.exe
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\bin\Debug\net7.0\CSharp_Abstraction_practical.deps.json
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\bin\Debug\net7.0\CSharp_Abstraction_practical.runtimeconfig.json
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\bin\Debug\net7.0\CSharp_Abstraction_practical.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\bin\Debug\net7.0\CSharp_Abstraction_practical.pdb
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.AssemblyInfo.cs
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\refint\CSharp_Abstraction_practical.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.pdb
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\CSharp_Abstraction_practical.genruntimeconfig.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_Abstraction_practical\obj\Debug\net7.0\ref\CSharp_Abstraction_practical.dll
