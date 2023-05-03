@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\bin\Debug\net7.0\CSharp_practical_Polymorphism.exe
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\bin\Debug\net7.0\CSharp_practical_Polymorphism.deps.json
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\bin\Debug\net7.0\CSharp_practical_Polymorphism.runtimeconfig.json
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\bin\Debug\net7.0\CSharp_practical_Polymorphism.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\bin\Debug\net7.0\CSharp_practical_Polymorphism.pdb
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.AssemblyInfo.cs
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\refint\CSharp_practical_Polymorphism.dll
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.pdb
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\CSharp_practical_Polymorphism.genruntimeconfig.cache
+C:\Users\jil\source\repos\CSharp_practical_3\CSharp_practical_Polymorphism\obj\Debug\net7.0\ref\CSharp_practical_Polymorphism.dll
